@@ -67,6 +67,7 @@ main {
   max-width: 100%;
   border-radius: 5px;
   display: flex;
+  margin: auto;
 }
 
 .meme--text {
